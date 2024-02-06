@@ -1,3 +1,3 @@
 - 1. 641310145 พณฤฏฐ์ ชำนิ Artist : https://github.com/XSacrifice
 - 2. 641310146 พรชิตา โพธิ์ชื่น  Game Dev : https://github.com/Fullsun-aem
-- 3. 641310149 ภูรี ศุภกิตติพันธุ์ Game design :
+- 3. 641310149 ภูรี ศุภกิตติพันธุ์ Game design : https://github.com/xXDr4g0nRoTXx
